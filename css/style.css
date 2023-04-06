@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,300');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: green;
+}
+
+form {
+    background-color: #28a745;
+    padding: 20px;
+    margin: 20px;
+}
